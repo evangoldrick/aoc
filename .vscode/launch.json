@@ -8,10 +8,11 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "${file}",
+            "program": "${workspaceFolder}/run_solutions.py",
             "console": "integratedTerminal",
             "cwd": "${fileDirname}",
-            "justMyCode": true
+            "justMyCode": true,
+            "args": []
         }
     ]
 }
