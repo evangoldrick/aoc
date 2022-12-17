@@ -5,6 +5,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Launch Both",
+      "request": "launch",
+      "mainClass": "Both",
+      "projectName": "aoc_4ce41587"
+    },
+    {
+      "type": "java",
+      "name": "Launch Part1",
+      "request": "launch",
+      "mainClass": "Part1",
+      "projectName": "aoc_4ce41587"
+    },
+    {
       "name": "Python: Current File",
       "type": "python",
       "request": "launch",
